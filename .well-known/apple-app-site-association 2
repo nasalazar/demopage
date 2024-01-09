@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "LZ84X293UV.com.bancodebogota.bancamovilPOC",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
